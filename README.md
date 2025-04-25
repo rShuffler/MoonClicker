@@ -1,8 +1,8 @@
-#Moon Clicker
+# Moon Clicker
 
 Clicker on Love2d and Lua
 
-#What's in the clicker?:
+# What's in the clicker?:
 
 - Achievements
 - Click upgrades
